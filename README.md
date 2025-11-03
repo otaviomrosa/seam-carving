@@ -2,6 +2,10 @@
 
 This project is a Python implementation of the seam carving algorithm, a technique for content-aware image resizing. Instead of uniformly scaling an image, this method intelligently finds and removes the least "interesting" paths of pixels, known as seams, to reduce the image's dimensions while preserving important features.
 
+## Demo
+![Demo of the algorithm's output](./output.png)
+*(A sample output plotted alongside the original and the traditionally resized output.)*
+
 ---
 
 ## How It Works
